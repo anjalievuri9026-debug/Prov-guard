@@ -1,0 +1,8 @@
+{
+  "name": "PROV-GUARD",
+  "description": "Context-aware digital evidence integrity and provenance intelligence. Extends DEIV with acquisition passports, signed manifests, Merkle proofs, evidence genealogy, chronology checks and offline verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

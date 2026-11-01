@@ -1,0 +1,11 @@
+PROV-GUARD — GOOGLE AI STUDIO START HERE
+
+1. Extract this ZIP.
+2. Read IMPORT_GUIDE.md. Current AI Studio Build mode documents importing existing projects from GitHub, not importing a project ZIP directly.
+3. Push this extracted folder to a new GitHub repository.
+4. In Google AI Studio Build mode, choose + / Add files > Import from GitHub.
+5. Import the repository.
+6. Copy MASTER_PROMPT.md into the AI Studio chat and ask it to start with Phase 0.
+7. Use PHASE_PROMPTS.md to proceed in controlled phases.
+
+Important: The existing DEIV application is preserved. The new PROV-GUARD modules are starter utilities and require database/API/UI integration before they become complete application features.
